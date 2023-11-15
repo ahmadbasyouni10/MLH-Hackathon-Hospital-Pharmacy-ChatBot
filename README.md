@@ -1,1 +1,1 @@
-# MLH-Hackathon-Soccer-ChatBot-
+# MLH-Hackathon-Pharmacy-ChatBot-

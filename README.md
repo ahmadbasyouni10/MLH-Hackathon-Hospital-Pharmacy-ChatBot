@@ -7,8 +7,12 @@ To run, ensure Python 3.6 is installed
 
 ```
 pip install numpy
+
 pip install nltk
+
 pip install tflearn
+
 pip install tensorflow
+
 pip install random
 ```
